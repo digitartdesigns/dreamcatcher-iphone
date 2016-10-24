@@ -1,4 +1,4 @@
 $(document).ready(function() {
-var url = "https://dreamcatcherfinancing.com/?app";     
+var url = "http://dreamcatcherfinancing.com/?app";     
 $(location).attr('href',url);
 });

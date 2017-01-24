@@ -1,6 +1,6 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "com.digitartdesigns.dreamcatcherfinancing1"
+        id = "com.digitartdesigns.dreamcatcherfinancing"
         version = "1">
     <name>DreamCatcher Auto Loan Financing</name>
     <description>

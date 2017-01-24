@@ -1,20 +1,19 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "com.dreamcatcherfinancing.dreamcatcherfinancing"
+		
+        id = "com.digitartdesigns.digitartdesigns"
         version = "1">
-    <name>Dream Catcher Auto Financing</name>
+    <name>Digit Art Designs</name>
     <description>
-        Web App by Digit Art Designs Ltd.
+        Web App Dream Catcher Auto Financing.
     </description>
-    <author href="http://digitartdesigns.com" email="support@digitartdesigns.com">
-        Digit Art Designs Ltd. Team
+    <author href="http://dreamcactherfinanacing.com" email="info@dreamcatcherfinancing.com">
+        DreamCatcher Enterprises Team
     </author>
+	<!--dreamcatcherfinancing1-->
     <feature name="http://api.phonegap.com/1.0/device" />
 	<plugin name="cordova-plugin-inappbrowser" spec="1.5.0" />
-	<!--<plugin name="org.apache.cordova.inappbrowser" source="pgb" spec="0.6.0" />
-	<plugin name="cordova-plugin-inappbrowser" spec="1.5.0" />-->
-	<preference name="phonegap-version" value="cli-6.3.0" />
-	<!--<preference name="phonegap-version" value="3.5.0" />-->
+	<preference name="phonegap-version" value="3.5.0" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="false" />
